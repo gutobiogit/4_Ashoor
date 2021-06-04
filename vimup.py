@@ -6,8 +6,8 @@ import json
 
 ROOT_DIR = '/home/smokey/Videos'
 
-HEADERS = {'Authorization': 'Bearer 290a8ec8f96419eb6b7b793acfa76099','Content-Type': 'application/json'}
-HEADERS_NO_JSON = {'Authorization': 'Bearer 290a8ec8f96419eb6b7b793acfa76099'}
+HEADERS = {'Authorization': 'Bearer XXXXXXXXXXXXXXXXXXXXXXXXXXX','Content-Type': 'application/json'}
+HEADERS_NO_JSON = {'Authorization': 'Bearer XXXXXXXXXXXXXXXXXXXXXXXXXXX'}
  
 
 class colors:
